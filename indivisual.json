@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Sakib Al",
+    "lastName": "Hasan",
+    "roll": 1,
+    "address": "Uttara",
+    "zipCode": 1230
+  },
+  {
+    "firstName": "Mushfiqur",
+    "lastName": "Rahim",
+    "roll": 2,
+    "address": "Dhanmondi",
+    "zipCode": 1235
+  },
+  {
+    "firstName": "Tamim",
+    "lastName": "Iqbal",
+    "roll": 3,
+    "address": "Mirpur",
+    "zipCode": 1630
+  }
+]
