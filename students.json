@@ -1,0 +1,40 @@
+{
+  "Students": [
+    {
+      "name": "Hashim Amla",
+      "middleName": null,
+      "age": 31,
+      "cgpa": "3.44",
+      "isRegistered": true,
+      "languages": ["Bengali", "English", "Hindi"],
+      "friends": [
+        {
+          "name": "Herschelle Gibbs",
+          "age": 25
+        },
+        {
+          "name": "Quinton de Kock",
+          "age": 28
+        }
+      ]
+    },
+    {
+      "name": "Mahendra Singh Pansingh Dhoni",
+      "middleName": null,
+      "age": 30,
+      "cgpa": "3.92",
+      "isRegistered": false,
+      "languages": ["Bengali", "English", "Hindi", "Finnish"],
+      "friends": [
+        {
+          "name": "Sachin Tendulkar",
+          "age": 24
+        },
+        {
+          "name": "Virender Sehwag",
+          "age": 26
+        }
+      ]
+    }
+  ]
+}

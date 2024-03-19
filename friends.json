@@ -1,0 +1,19 @@
+{
+  "friends": [
+    {
+      "name": "jonny Bairstow",
+      "age": 26,
+      "skill": ["Html", "CSS"]
+    },
+    {
+      "name": "Glen Phillips",
+      "age": 27,
+      "skill": ["Bootstrap", "Tailwind"]
+    },
+    {
+      "name": "Trent Boult",
+      "age": 30,
+      "skill": ["PHP", "Laravel"]
+    }
+  ]
+}

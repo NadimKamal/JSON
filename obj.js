@@ -1,24 +1,25 @@
 let Person = {
-    name: "Tamim Iqbal",
-    age: 25,
-    skill: ['PHP', 'Laravel', 'Ajax']
-}
+  name: "Tamim Iqbal",
+  age: 25,
+  skill: ["PHP", "Laravel", "Ajax"],
+};
+
+console.log(typeof Person);
 
 let Friends = [
-    "Shakib",
-    "Murtoza",
-    "Imrul",
-    "Mahmudullah",
-    "Mushfiq",
-    "Anamul",
-    "Ashraful"
-]
+  "Shakib",
+  "Murtoza",
+  "Imrul",
+  "Mahmudullah",
+  "Mushfiq",
+  "Anamul",
+  "Ashraful",
+];
 // for(i in Friends) console.log(i);
 
-
-// for(i=0; i<Friends.length; i++){
-//     console.log(i, Friends[i]);
-// }
+for(i=0; i<Friends.length; i++){
+    console.log(i, Friends[i]);
+}
 
 // console.log(Friends.length);
 let players = [

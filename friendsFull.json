@@ -1,0 +1,49 @@
+{
+  "friends": [
+    {
+      "name": "Adam Gilchrist",
+      "age": 36,
+      "skill": [
+        {
+          "frontend": ["Html", "CSS"],
+          "backend": ["Oracle", "MongoDB"]
+        },
+        {
+          "games": ["PUBG", "Chess"],
+          "sports": ["Cricket", "Badminton"],
+          "homeSports": ["Chess", "Ludo"]
+        }
+      ]
+    },
+    {
+      "name": "Kumar Sangakkara",
+      "age": 37,
+      "skill": [
+        {
+          "frontend": ["Bootstrap", "Tailwind"],
+          "backend": ["MySQL", "Codignitor"]
+        },
+        {
+          "games": ["FreeFire", "Ludo"],
+          "sports": ["Football", "Golf"],
+          "homeSports": ["29-Card", "HotWheels"]
+        }
+      ]
+    },
+    {
+      "name": "Sanath Jayasuriya",
+      "age": 40,
+      "skill": [
+        {
+          "frontend": ["JavaScript", "Typescript"],
+          "backend": ["PHP", "Laravel"]
+        },
+        {
+          "games": ["Candy-Crush", "CashOfClans"],
+          "sports": ["Buscket-Ball", "Base-Ball"],
+          "homeSports": ["Carrom", "8-Ball-Pool"]
+        }
+      ]
+    }
+  ]
+}

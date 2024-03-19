@@ -6,8 +6,8 @@ let player = {
   subjects: ["Bangla", "English", "Math", "Science"],
   roll: 23,
 };
-// console.log(typeof player);
-// console.log(player.name);
+console.log(typeof player);
+console.log(player.name);
 
 
 let json = JSON.stringify(player);
